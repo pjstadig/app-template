@@ -1,4 +1,4 @@
-(defproject name.stadig.app/lein-template "0.1.0"
+(defproject name.stadig.app/lein-template "0.1.1-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "Mozilla Public License, v. 2.0"
